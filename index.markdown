@@ -18,6 +18,7 @@ image: assets/img/cover.png
 - PSTR241.22 / WW65
 - November 13, 2023, 8:00 AM - 12:00 PM
 - WCC Halls A-C 
+- Contact: [j@nny.fyi](mailto:j@nny.fyi)
 
 [.pdf (49.8MB)](assets/img/2023-sfn-jlsaunders.pdf)
 
