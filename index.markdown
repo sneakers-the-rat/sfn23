@@ -19,6 +19,7 @@ image: assets/img/cover.png
 - November 13, 2023, 8:00 AM - 12:00 PM
 - WCC Halls A-C 
 - Contact: [j@nny.fyi](mailto:j@nny.fyi)
+- Page Source: https://github.com/sneakers-the-rat/sfn23
 
 [.pdf (49.8MB)](assets/img/2023-sfn-jlsaunders.pdf)
 
