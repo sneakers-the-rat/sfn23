@@ -21,7 +21,7 @@
 title: Social-First P2P | SfN 2023, Jonny Saunders
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The continuing persuit of practical information liberation
+  The continuing pursuit of practical information liberation
 baseurl: "/sfn23" # the subpath of your site, e.g. /blog
 url: "https://jon-e.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: json_dirs
