@@ -14,6 +14,8 @@ image: assets/img/cover.png
 
 *Jonny Saunders, Daniel Aharoni*
 
+![CC-BY-SA License](assets/img/by-sa.svg)
+
 - [AbstractsOnline](https://www.abstractsonline.com/pp8/#!/10892/presentation/35685)
 - PSTR241.22 / WW65
 - November 13, 2023, 8:00 AM - 12:00 PM
