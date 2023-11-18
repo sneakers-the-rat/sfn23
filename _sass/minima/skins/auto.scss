@@ -3,6 +3,8 @@
 // Default color scheme settings
 // These are overridden in classic.css and dark.scss
 
+@import '../custom-variables';
+
 $color-scheme-auto: true !default;
 $color-scheme-dark: false !default;
 
@@ -106,9 +108,9 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
-$dm-brand-color:           #999999 !default;
+// $dm-brand-color:           #999999 !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 5%) !default;
-$dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
+$dm-brand-color-dark:      darken($dm-brand-color, 25%) !default;
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
@@ -116,9 +118,9 @@ $dm-text-color:            #bbbbbb !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
-$dm-link-base-color:       #79b8ff !default;
-$dm-link-visited-color:    $dm-link-base-color !default;
-$dm-link-hover-color:      $dm-text-color !default;
+$dm-link-base-color:       $dm-brand-color !default;
+$dm-link-visited-color:    $dm-brand-color-dark !default;
+$dm-link-hover-color:      $dm-brand-color !default;
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
 $dm-border-color-02:       $dm-brand-color-light !default;

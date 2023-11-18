@@ -1,0 +1,12 @@
+.toc {
+	border: 5px solid $brand-color;
+	border-radius: 10px;
+	// background-color: darken($brand-color-dark, 30%);
+	color: #fff;
+	padding: 0.5em 1em;
+	margin-bottom: 1em;
+
+	ul#markdown-toc {
+		margin-bottom: 0;
+	}
+}

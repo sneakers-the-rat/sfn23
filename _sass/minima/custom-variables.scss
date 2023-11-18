@@ -1,1 +1,6 @@
 // Placeholder to allow overriding predefined variables smoothly.
+
+
+$brand-color: lighten(#ec008c, 20%);
+$dm-brand-color: $brand-color;
+$brand-color-light: lighten($brand-color, 10%);
